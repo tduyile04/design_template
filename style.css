@@ -1,0 +1,26 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    padding-bottom: 0;
+}
+
+/*.content {
+  min-height: calc(100vh- 70px);
+}
+*/
+.content {
+  height: 55%;
+}
+
+footer {
+	margin-bottom: 0;
+}
+
+#left-pad {
+	padding-left: 20px;
+}
+
+#none {
+	padding: 0px;
+	margin: 0px;
+}
